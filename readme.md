@@ -1,4 +1,4 @@
-﻿#Media Library
+﻿# Media Library
 
 -This is a C# practice project built from a series of coding challenges following a C# objects course taught by Treehouse and Code Louisville.
 
@@ -8,9 +8,9 @@
 
 
 
-##Practice Creating Classes in C#
+## Practice Creating Classes in C#
 
-###1st Challenge
+### 1st Challenge
 --------------------------------------------------
 
 1. Add at least two classes to your program—one class for each type of item—or media type—that can be added to your media library.
@@ -26,14 +26,14 @@ Media Type Examples
 * Book media type, with `Title` and `Author` fields
 * Movie media type, with `Title` and `Director` fields
 
-###2nd Challenge
+### 2nd Challenge
 --------------------------------------------------
 
 1. In the Program.cs file `Main()` method, use the `new` keyword to create at least one instance of each of your media type classes.
 
 2. For each of the objects that you create, set each field to an appropriate value.
 
-###3rd Challenge
+### 3rd Challenge
 --------------------------------------------------
 
 1. Add a constructor to each of your media type classes.
@@ -47,10 +47,10 @@ Media Type Examples
 
 
 
-##Practice Inheritance in C#
+## Practice Inheritance in C#
 --------------------------------------------------
 
-###1st Challenge
+### 1st Challenge
 --------------------------------------------------
 
 1. Add a MediaType base class to your program.
@@ -65,7 +65,7 @@ Media Type Examples
 3. Review your media type subclasses and remove any `Title` field definitions from those classes.
   a) Remove any constructor initialization code related to the removed `Title` fields.
 
-###2nd Challenge
+### 2nd Challenge
 --------------------------------------------------
 
 1. Move the `Loan()` and `Return()` methods and the `Loanee` and `OnLoan` fields from the Album subclass to the MediaType base class.
@@ -77,7 +77,7 @@ Media Type Examples
   b) Call the `Loan()` and `Return()` methods on each media type subclass instance.
   c) Call the `GetDisplayText()` method (on each media type subclass instance) after calling the `Loan()` and `Return()` methods.
 
-###3rd Challenge
+### 3rd Challenge
 --------------------------------------------------
 
 1. In the Program.cs file, create a static method named `DetectMediaType()`.
@@ -89,7 +89,7 @@ Media Type Examples
 
 3. To test your changes, pass each media type subclass instance into a call to the `DetectMediaType()` method.
 
-###4th Challenge
+### 4th Challenge
 --------------------------------------------------
 
 1. In the MediaType.cs file...
@@ -108,9 +108,9 @@ Media Type Examples
 
 
 
-##Practice Encapsulation and Arrays in C#
+## Practice Encapsulation and Arrays in C#
 
-###1st Challenge
+### 1st Challenge
 --------------------------------------------------
 
 1. Declare a variable for an array of type MediaType.
@@ -122,7 +122,7 @@ Media Type Examples
 
 4. Comment out any code past the calls to the `DetectMediaType()` method.
 
-###2nd Challenge
+### 2nd Challenge
 --------------------------------------------------
 
 1. Encapsulate the array of media type items inside of a class.
@@ -138,7 +138,7 @@ Media Type Examples
     * Pass into the constructor the existing collection of items.
   b) Update the rest of the code to use the `GetItemAt()` method to retrieve items from the media library.
 
-###3rd Challenge
+### 3rd Challenge
 --------------------------------------------------
 
 1. In the MediaLibrary class, update the `GetItemAt()` method to gracefully handle a bad index.
@@ -152,9 +152,9 @@ Media Type Examples
 
 
 
-##Practice Properties in C#
+## Practice Properties in C#
 
-###1st Challenge
+### 1st Challenge
 --------------------------------------------------
 
 1. In the MediaType base class and Album, Book, and Movie subclasses, replace each public class field with a property.
@@ -163,7 +163,7 @@ Media Type Examples
 
 2. In the MediaType base class, initialize the `Loanee` and `OnLoan` properties inline to an empty string (i.e. `""` or `string.Empty`) and `false` respectively.
 
-###2nd Challenge
+### 2nd Challenge
 --------------------------------------------------
 
 1. In each media type subclass, replace the `GetDisplayText()` method with a `DisplayText` computed property.
@@ -179,9 +179,9 @@ Media Type Examples
 
 
 
-##Practice Loops in C#
+## Practice Loops in C#
 
-###1st Challenge
+### 1st Challenge
 --------------------------------------------------
 
 1. Add a method named `DisplayItems()` to the MediaLibrary class.
@@ -190,7 +190,7 @@ Media Type Examples
 
 2. In the Program.cs file, replace the calls to the `Display()` method with a single call to the `DisplayItems()` method.
 
-###2nd Challenge
+### 2nd Challenge
 --------------------------------------------------
 
 1. Add a method named `FindItem()` to the MediaLibrary class.

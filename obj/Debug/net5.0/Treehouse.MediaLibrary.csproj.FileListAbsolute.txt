@@ -1,0 +1,15 @@
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/bin/Debug/net5.0/Treehouse.MediaLibrary.deps.json
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/bin/Debug/net5.0/Treehouse.MediaLibrary.runtimeconfig.json
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/bin/Debug/net5.0/Treehouse.MediaLibrary.runtimeconfig.dev.json
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/bin/Debug/net5.0/Treehouse.MediaLibrary.dll
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/bin/Debug/net5.0/ref/Treehouse.MediaLibrary.dll
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/bin/Debug/net5.0/Treehouse.MediaLibrary.pdb
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/obj/Debug/net5.0/Treehouse.MediaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/obj/Debug/net5.0/Treehouse.MediaLibrary.AssemblyInfoInputs.cache
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/obj/Debug/net5.0/Treehouse.MediaLibrary.AssemblyInfo.cs
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/obj/Debug/net5.0/Treehouse.MediaLibrary.csproj.CoreCompileInputs.cache
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/obj/Debug/net5.0/Treehouse.MediaLibrary.dll
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/obj/Debug/net5.0/ref/Treehouse.MediaLibrary.dll
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/obj/Debug/net5.0/Treehouse.MediaLibrary.pdb
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/obj/Debug/net5.0/Treehouse.MediaLibrary.genruntimeconfig.cache
+/Users/aaroncummins/web-projects/cs/Treehouse.MediaLibrary/Treehouse.MediaLibrary/obj/Debug/net5.0/Treehouse.MediaLibrary.csprojAssemblyReference.cache

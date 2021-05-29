@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{EB992BE9-D1B3-4B07-A1E1-00B5D867785D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="readme.md">
+    <Files>
+      <File FileName="Program.cs" Line="101" Column="10" IsPinned="True" />
+      <File FileName="Book.cs" />
+      <File FileName="MediaType.cs" />
+      <File FileName="VideoGame.cs" />
+      <File FileName="MediaLibrary.cs" />
+      <File FileName="readme.md" Line="3" Column="14" />
+      <File FileName="gitignore.txt" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Treehouse.MediaLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
